@@ -1,0 +1,5 @@
+1. Kite : http://jsfiddle.net/davified/kyajcqrr/2/
+2. Bangalore traffic: https://jsfiddle.net/davified/8xzm0b92/6/
+3. Meter: http://jsfiddle.net/davified/o6Lgocor/2/
+4. Currencies: http://jsfiddle.net/davified/utfwb66L/2/
+5. Multi-language advertisement: http://jsfiddle.net/davified/L3nnLd7b/2/ 

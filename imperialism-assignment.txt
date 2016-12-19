@@ -1,0 +1,24 @@
+1. Gini Coefficient
+What is the Gini coefficient in your country? Is there a country that has a more fair income distribution? Which country do you think is more "fair?" Your answer should be between 100 and 200 words.
+
+Singapore's Gini coefficient is 46.4 (2014) and it is ranked the 32nd out of 145 countries (https://www.cia.gov/library/publications/the-world-factbook/rankorder/2172rank.html). By definition, there are 113 countries with lower Gini coefficients (i.e. a more equal income distribution) than Singapore.
+
+However, it is impossible to answer the question on "fairness" just by a single metric. For instance, Ethiopia, Timor Leste and Pakistan both have lower Gini coefficients than Singapore - but are they more fair? Fairness has to take into account other indicators such as corruption, rule of law, and national expenditure on social transfers (e.g. healthcare/education subsidies for the needy).
+
+Since 2015, Singapore has put in place several policies and set aside a greater portion of the national budget to address socio-economic issues such as rising healthcare costs, rising business costs, under-employment. These policies have helped the elderly to afford healthcare and help unemployed workers to receive re-training and re-tooling to be better equipped for other jobs. Hence, while its Gini coefficient ranks quite high, it is edging towards a more inclusive and fair society by ensuring that even the disadvantaged can have chances to succeed in life.
+
+2. Learning About Imperialism
+Did you learn anything from these? If so, what? Was there something you disagreed with? Which side should India should have been on during World War II? Your answer should be between 50 and 100 words.
+
+I learnt that (i) there is a darker side to the Allied forces' story of the World War 2 victory, and that (ii) India suffered severe famine and losses as a result of the war. Churchill once said, "History is written by the victors," and true enough - the history that I knew until now had cast the Allied forces' war efforts in a positive light.
+
+Another greater lesson is that when it comes to national security and grand strategy, each country must first and foremost have the will and means to look after its own interests. If a country counts wholly on another country to come to its rescue, it will be leaving its fate to chance and circumstance.
+
+Even after reading these articles, I think that India had still made the right choice in remaining aiding the British empire in the war. India played an indispensible role in fighting the Axis powers in various theaters, and consequently in curbing totalitarian powers in the global stage. Without India's significant contribution to the Allied forces, they would have lost the war and the world would have been so much more worse off.
+
+
+3. Your Recommendations for ThoughtWorks
+We are interested in hearing your recommendations for TWU. What short videos, articles, movies, etc. would be good for TWU?
+1) Sam Richards: A radical experiment in empathy (https://www.youtube.com/watch?v=9IgOVOPLTYI)
+2) Linda Cliatt-Wayman: How to fix a broken school? Lead fearlessly, love hard (https://www.youtube.com/watch?v=Xe2nlti47kA)
+3) Rebecca Solnit on Hope in Dark Times, Resisting the Defeatism of Easy Despair, and What Victory Really Means for Movements of Social Change (https://www.brainpickings.org/2016/03/16/rebecca-solnit-hope-in-the-dark-2/)
